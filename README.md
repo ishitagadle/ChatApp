@@ -3,7 +3,13 @@ This Chat Application is a comprehensive, real-time messaging platform designed 
 
 # Features
 User authentication (Sign Up, Login, Logout)
+
 Real-time messaging
+
 Create groups
+
 Theme Change
+
+# Contact
+If you have any questions or suggestions, feel free to open an issue or contact me at [ishitagadle@gmail.com].
 
